@@ -1,0 +1,162 @@
+*{text-align: center;margin: 0;padding: 0;}
+.wrapper{margin-left: 15%; margin-right: 15%;}
+.header{
+    padding: 3%;
+    height: 180px;
+    background: url(../Images/BGgif.gif);
+    border-radius: 0px opx 2px 2px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    float: right;
+    text-align: left;
+    padding: 5px 20px;
+}
+h1{color: white;}
+h2{color: white; float: left; padding: 5px 20px;}
+h3{color: white;}
+
+.b1{height: 40px;width: 20%; margin-top: 20px; background-color:  lightskyblue; font-weight: bold; font-size: 15px;}
+.b2{height: 40px;width: 10%; margin-top: 20px; background-color: lightpink; font-weight: bold; font-size: 15px;}
+.row{margin-top: 1%;}
+.fr{float: right;}
+.fl{float: left;}
+.clr{clear: both;}
+.col1{background: blue;}
+.col2{background: black;}
+.col3{background: purple;}
+.col4{background: orangered;}
+.col5{background: rebeccapurple;}
+.col6{background: orange;}
+.nav{height: 40px;}
+.camp{height: 300px; width: 20%;}
+.camp1{
+    margin-top: 20px;
+    height: 100px;
+    border-radius: 50%;
+    width: 10%;
+}
+#c1{
+    margin-left: 2px;
+    margin-top: 50px;
+    text-align: left;
+}
+#c2{
+    margin-left: 2px;
+    margin-top: 50px;
+    text-align: left;
+}
+#c3{
+    margin-left: 2px;
+    margin-top: 50px;
+    text-align: left;
+}
+.mar{margin-left: 1%;}
+.cute1{
+    margin-left: 5px;
+    background: url(../Images/cute1.jpg) no-repeat center top;
+}
+.cute2{
+    background: url(../Images/cute2.jpg) no-repeat center top;
+}
+.camp_box{
+    border: rgb(192, 178, 178) 1px solid;
+    height: 150px;
+}
+#img1{
+    margin-top: 5px;
+    height: 200px; width: 280px; 
+}
+#img2{
+   margin-top: 5px;
+   height: 200px; width: 280px;
+}
+#img3{
+   margin-top: 5px;
+   height: 200px; width: 280px;
+}
+.box1{
+    border: rgb(192, 178, 178) 1px solid;
+    height: 250px;
+    width: 33%;
+}
+.box2{
+    margin-left: 2px;
+    border: rgb(192, 178, 178) 1px solid;
+    height: 250px;
+    width: 33%;
+}
+.box3{
+    border: rgb(192, 178, 178) 1px solid;
+    height: 250px;
+    width: 33%;
+}
+
+.footer{
+    margin-bottom: 10px; 
+    height: 150px;
+    background: url(../Images/BG.jpg);
+}
+#f1{color: white; float: right; margin-right: 5px; text-align: right; margin-top: 100px;}
+ul li{ list-style: none;}
+#flex{color: white; float: left; padding: 5px 30px; display: flex;}
+img{
+    margin-left: 20px;
+    margin-top: -60px;
+    float: left; width: 200px;
+}
+p{float: left; font-weight: bold; font-size: 25px;margin-top: 6px;}
+.logobox1{
+    height: 50px;
+    width: 90%;
+}
+.logobox2{
+    margin-left: 2px;
+    height: 50px;
+    width: 9%;
+}
+#logolast{
+    float: right;
+    margin-right: 5px;
+    margin-top: 10px;
+    height: 30px; width: 80px;
+}
+
+.signupbox{
+    background: url(../Images/regimg.jpg);
+    background-size: cover;
+    background-position: center;
+    border: rgb(192, 178, 178) 1px solid;
+    height: 350px;
+}
+#reg{
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+td{font-weight: bold;}
+#submit{
+    height: 30px;
+    width: 80px;
+    font-weight: bold;
+    background-color: darkseagreen;
+}
+#reset{
+    height: 30px;
+    width: 80px;
+    font-weight: bold;
+    background-color: rgb(151, 41, 41);
+}
+input{
+    height: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+.loginbox{
+    background: url(../Images/login.jpg);
+    background-size: cover;
+    background-position: center;
+    border: rgb(192, 178, 178) 1px solid;
+    height: 200px;
+}
+table{margin-left: 300px; margin-top: 25px;}
